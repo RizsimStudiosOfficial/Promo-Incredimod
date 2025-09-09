@@ -5,19 +5,19 @@
   },
   "mods": [
     {
-      "modName": "Amogus Mod",
+      "modName": "Amogus",
       "modLink": "https://www.youtube.com/watch?v=Ipn2Unq3rJI",
       "modImage": "https://example.com/amogus.png",
       "promote": true
     },
     {
-      "modName": "Silly Mod",
+      "modName": "Terroritum",
       "modLink": "https://example.com/sillymod",
       "modImage": "https://example.com/silly.png",
       "promote": true
     },
     {
-      "modName": "Old Mod (Hidden)",
+      "modName": "Foreverbox",
       "modLink": "#",
       "modImage": "#",
       "promote": false
