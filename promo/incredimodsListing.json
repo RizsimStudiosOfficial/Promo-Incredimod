@@ -1,6 +1,6 @@
 {
   "settings": {
-    "visible": false,
+    "visible": true,
     "randomize": false
   },
   "mods": [
@@ -10,7 +10,7 @@
       "modImage": "https://raw.githubusercontent.com/RizsimStudiosOfficial/Promo-Incredimod/refs/heads/main/promo/modDisplays/amogus.png",
       "modBanner": "https://raw.githubusercontent.com/RizsimStudiosOfficial/Promo-Incredimod/main/promo/modBanners/banner-thomasbox.png",
       "modBannerY": "-454px",
-      "promote": true
+      "promote": false
     },
     {
       "modName": "Terroritum",
@@ -37,7 +37,7 @@
       "modName": "Spru-What?",
       "modLink": "https://www.youtube.com/watch?v=eb_JbX5Gniw",
       "modImage": "https://raw.githubusercontent.com/RizsimStudiosOfficial/Promo-Incredimod/refs/heads/main/promo/modDisplays/spru-what.png",
-      "promote": true
+      "promote": false
     }
   ]
 }
