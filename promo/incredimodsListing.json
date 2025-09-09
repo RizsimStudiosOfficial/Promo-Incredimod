@@ -10,7 +10,8 @@
       "modImage": "https://raw.githubusercontent.com/RizsimStudiosOfficial/Promo-Incredimod/refs/heads/main/promo/modDisplays/amogus.png",
       "modBanner": "https://raw.githubusercontent.com/RizsimStudiosOfficial/Promo-Incredimod/main/promo/modBanners/banner-thomasbox.png",
       "modBannerY": "-454px",
-      "promote": false
+      "modBannerMobileY": "-187px",
+      "promote": true
     },
     {
       "modName": "Terroritum",
@@ -19,7 +20,7 @@
       "modBanner": "https://raw.githubusercontent.com/RizsimStudiosOfficial/Promo-Incredimod/main/promo/modBanners/banner-havoc.png",
       "modBannerY": "-450px",
       "modBannerMobileY": "-187px",
-      "promote": true
+      "promote": false
     },
     {
       "modName": "Foreverbox",
