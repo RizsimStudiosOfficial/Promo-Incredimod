@@ -1,7 +1,7 @@
 {
   "settings": {
-    "visible": true,
-    "randomize": true
+    "visible": false,
+    "randomize": false
   },
   "mods": [
     {
@@ -18,7 +18,7 @@
       "modImage": "https://raw.githubusercontent.com/RizsimStudiosOfficial/Promo-Incredimod/refs/heads/main/promo/modDisplays/havoc.png",
       "modBanner": "https://raw.githubusercontent.com/RizsimStudiosOfficial/Promo-Incredimod/main/promo/modBanners/banner-havoc.png",
       "modBannerY": "-450px",
-      "promote": true
+      "promote": false
     },
     {
       "modName": "Foreverbox",
