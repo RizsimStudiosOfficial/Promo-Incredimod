@@ -1,0 +1,26 @@
+{
+  "settings": {
+    "visible": true,
+    "randomize": true
+  },
+  "mods": [
+    {
+      "modName": "Amogus Mod",
+      "modLink": "https://www.youtube.com/watch?v=Ipn2Unq3rJI",
+      "modImage": "https://example.com/amogus.png",
+      "promote": true
+    },
+    {
+      "modName": "Silly Mod",
+      "modLink": "https://example.com/sillymod",
+      "modImage": "https://example.com/silly.png",
+      "promote": true
+    },
+    {
+      "modName": "Old Mod (Hidden)",
+      "modLink": "#",
+      "modImage": "#",
+      "promote": false
+    }
+  ]
+}
