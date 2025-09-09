@@ -1,4 +1,4 @@
-# Promo-Incredimods <br> (Rizsim's Cool Promo system you can't disable in-game)
+# Promo-Incredimods <br> <span class="small-text">(Rizsim's Cool Promo system you can't disable in-game)</span>
 This system is only being used for mods ive worked on in a system I made.
 
 
