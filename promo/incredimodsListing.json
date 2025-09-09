@@ -26,6 +26,12 @@
       "modName": "Decay",
       "modLink": "https://www.youtube.com/watch?v=fjD0qk41VTk",
       "modImage": "https://raw.githubusercontent.com/RizsimStudiosOfficial/Promo-Incredimod/refs/heads/main/promo/modDisplays/decay.png",
+      "promote": false
+    },
+    {
+      "modName": "Spru-What?",
+      "modLink": "https://www.youtube.com/watch?v=eb_JbX5Gniw",
+      "modImage": "https://raw.githubusercontent.com/RizsimStudiosOfficial/Promo-Incredimod/refs/heads/main/promo/modDisplays/spru-what.png",
       "promote": true
     }
   ]
