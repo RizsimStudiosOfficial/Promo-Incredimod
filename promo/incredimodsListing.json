@@ -18,7 +18,7 @@
       "modImage": "https://raw.githubusercontent.com/RizsimStudiosOfficial/Promo-Incredimod/refs/heads/main/promo/modDisplays/havoc.png",
       "modBanner": "https://raw.githubusercontent.com/RizsimStudiosOfficial/Promo-Incredimod/main/promo/modBanners/banner-havoc.png",
       "modBannerY": "-450px",
-      "promote": false
+      "promote": true
     },
     {
       "modName": "Foreverbox",
