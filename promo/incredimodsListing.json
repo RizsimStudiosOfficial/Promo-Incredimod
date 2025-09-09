@@ -9,7 +9,7 @@
       "modLink": "https://www.youtube.com/watch?v=Ipn2Unq3rJI",
       "modImage": "https://raw.githubusercontent.com/RizsimStudiosOfficial/Promo-Incredimod/refs/heads/main/promo/modDisplays/amogus.png",
       "modBanner": "https://raw.githubusercontent.com/RizsimStudiosOfficial/Promo-Incredimod/refs/heads/main/promo/modBanners/banner-thomasbox.png",
-      "promote": false
+      "promote": true
     },
     {
       "modName": "Terroritum",
@@ -33,7 +33,7 @@
       "modName": "Spru-What?",
       "modLink": "https://www.youtube.com/watch?v=eb_JbX5Gniw",
       "modImage": "https://raw.githubusercontent.com/RizsimStudiosOfficial/Promo-Incredimod/refs/heads/main/promo/modDisplays/spru-what.png",
-      "promote": true
+      "promote": false
     }
   ]
 }
