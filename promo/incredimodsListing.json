@@ -20,13 +20,13 @@
       "modName": "Foreverbox",
       "modLink": "https://joalor64gh.github.io/foreverbox.html",
       "modImage": "https://raw.githubusercontent.com/RizsimStudiosOfficial/Promo-Incredimod/refs/heads/main/promo/modDisplays/foreverbox.png",
-      "promote": true
+      "promote": false
     },
     {
       "modName": "Decay",
       "modLink": "https://www.youtube.com/watch?v=fjD0qk41VTk",
       "modImage": "https://raw.githubusercontent.com/RizsimStudiosOfficial/Promo-Incredimod/refs/heads/main/promo/modDisplays/decay.png",
-      "promote": false
+      "promote": true
     }
   ]
 }
