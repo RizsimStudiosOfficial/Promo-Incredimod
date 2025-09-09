@@ -10,7 +10,7 @@
       "modImage": "https://raw.githubusercontent.com/RizsimStudiosOfficial/Promo-Incredimod/refs/heads/main/promo/modDisplays/amogus.png",
       "modBanner": "https://raw.githubusercontent.com/RizsimStudiosOfficial/Promo-Incredimod/main/promo/modBanners/banner-thomasbox.png",
       "modBannerY": "-454px",
-      "promote": true
+      "promote": false
     },
     {
       "modName": "Terroritum",
