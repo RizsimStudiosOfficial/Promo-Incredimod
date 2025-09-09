@@ -26,7 +26,8 @@
       "modName": "Foreverbox",
       "modLink": "https://joalor64gh.github.io/foreverbox.html",
       "modImage": "https://raw.githubusercontent.com/RizsimStudiosOfficial/Promo-Incredimod/refs/heads/main/promo/modDisplays/foreverbox.png",
-      "promote": false
+      "modBanner": "https://raw.githubusercontent.com/RizsimStudiosOfficial/Promo-Incredimod/main/promo/modBanners/banner-foreverbox.png",
+      "promote": true
     },
     {
       "modName": "Decay",
@@ -40,7 +41,7 @@
       "modLink": "https://www.youtube.com/watch?v=eb_JbX5Gniw",
       "modImage": "https://raw.githubusercontent.com/RizsimStudiosOfficial/Promo-Incredimod/refs/heads/main/promo/modDisplays/spru-what.png",
       "modBanner": "https://raw.githubusercontent.com/RizsimStudiosOfficial/Promo-Incredimod/main/promo/modBanners/banner-spru-what.png",
-      "promote": true
+      "promote": false
     }
   ]
 }
