@@ -1,6 +1,6 @@
 MODS THAT ARE APPROVED SINCE I WORKED ON THEM!
 1. Thomasbox (Thomas Witt & Rizsim Studios) : Worked on it
-2. Terroritum (M.T Team / Asb0's Mainline Mod) : Helped with the code! (and modbox thing too soon)
+2. Terroritum (M.T Team / Asb0's Mainline Mod) : Helped with the code! - Made graphic for polos in-game in havoc (reused in destruction as well and modbox thing too soon)
 3. Decay (Puglord71 & LucidLibrarian) : Helped making the custom polo graphic in-game!
 4. Foreverbox (Joalor64) : Uhhhh fixed some v8 bugs I guess idfk.
 5. Spru-what? (Ragil / RagDewann / Mr wheres amogus bonus 2) : Extra code help that failed my ass!
