@@ -1,11 +1,4 @@
-<style>
-.small-text {
-  font-size: 10px;
-}
-</style>
-
-
-# Promo-Incredimods <br> <span class="small-text">(Rizsim's Cool Promo system you can't disable in-game)</span>
+# Promo-Incredimods <br> <span class="small-text">###(Rizsim's Cool Promo system you can't disable in-game)</span>
 This system is only being used for mods ive worked on in a system I made.
 
 
