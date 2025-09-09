@@ -10,33 +10,33 @@
       "modImage": "https://raw.githubusercontent.com/RizsimStudiosOfficial/Promo-Incredimod/refs/heads/main/promo/modDisplays/amogus.png",
       "modBanner": "https://raw.githubusercontent.com/RizsimStudiosOfficial/Promo-Incredimod/main/promo/modBanners/banner-thomasbox.png",
       "modBannerY": "-454px",
-      "promote": false
+      "promote": true
     },
     {
       "modName": "Terroritum",
       "modLink": "https://www.youtube.com/watch?v=Cfyxqmsox24",
       "modImage": "https://raw.githubusercontent.com/RizsimStudiosOfficial/Promo-Incredimod/refs/heads/main/promo/modDisplays/havoc.png",
       "modBanner": "https://raw.githubusercontent.com/RizsimStudiosOfficial/Promo-Incredimod/main/promo/modBanners/banner-havoc.png",
-      "promote": false
+      "promote": true
     },
     {
       "modName": "Foreverbox",
       "modLink": "https://joalor64gh.github.io/foreverbox.html",
       "modImage": "https://raw.githubusercontent.com/RizsimStudiosOfficial/Promo-Incredimod/refs/heads/main/promo/modDisplays/foreverbox.png",
-      "promote": false
+      "promote": true
     },
     {
       "modName": "Decay",
       "modLink": "https://www.youtube.com/watch?v=fjD0qk41VTk",
       "modImage": "https://raw.githubusercontent.com/RizsimStudiosOfficial/Promo-Incredimod/refs/heads/main/promo/modDisplays/decay.png",
       "modBanner": "https://raw.githubusercontent.com/RizsimStudiosOfficial/Promo-Incredimod/main/promo/modBanners/banner-decay.png",
-      "promote": false
+      "promote": true
     },
     {
       "modName": "Spru-What?",
       "modLink": "https://www.youtube.com/watch?v=eb_JbX5Gniw",
       "modImage": "https://raw.githubusercontent.com/RizsimStudiosOfficial/Promo-Incredimod/refs/heads/main/promo/modDisplays/spru-what.png",
-      "promote": false
+      "promote": true
     }
   ]
 }
