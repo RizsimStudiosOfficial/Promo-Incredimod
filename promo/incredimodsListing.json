@@ -11,6 +11,7 @@
       "modBanner": "https://raw.githubusercontent.com/RizsimStudiosOfficial/Promo-Incredimod/main/promo/modBanners/banner-thomasbox.png",
       "modBannerY": "-454px",
       "modBannerMobileY": "-191px",
+      "isForDev": false,
       "promote": false
     },
     {
@@ -20,6 +21,7 @@
       "modBanner": "https://raw.githubusercontent.com/RizsimStudiosOfficial/Promo-Incredimod/main/promo/modBanners/banner-havoc.png",
       "modBannerY": "-450px",
       "modBannerMobileY": "-187px",
+      "isForDev": false,
       "promote": false
     },
     {
@@ -29,6 +31,7 @@
       "modBanner": "https://raw.githubusercontent.com/RizsimStudiosOfficial/Promo-Incredimod/main/promo/modBanners/banner-foreverbox.png",
       "modBannerY": "-452.2px",
       "modBannerMobileY": "-190px",
+      "isForDev": false,
       "promote": false
     },
     {
@@ -44,6 +47,7 @@
       "modLink": "https://www.youtube.com/watch?v=eb_JbX5Gniw",
       "modImage": "https://raw.githubusercontent.com/RizsimStudiosOfficial/Promo-Incredimod/refs/heads/main/promo/modDisplays/spru-what.png",
       "modBanner": "https://raw.githubusercontent.com/RizsimStudiosOfficial/Promo-Incredimod/main/promo/modBanners/banner-spru-what.png",
+      "isForDev": false,
       "promote": false
     }
   ]
