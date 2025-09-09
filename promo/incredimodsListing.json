@@ -14,7 +14,7 @@
       "modName": "Terroritum",
       "modLink": "https://example.com/sillymod",
       "modImage": "https://example.com/silly.png",
-      "promote": true
+      "promote": false
     },
     {
       "modName": "Foreverbox",
